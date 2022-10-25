@@ -1,0 +1,6 @@
+### Readme
+
+#### Run
+```
+node main
+```
