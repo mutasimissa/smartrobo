@@ -8,9 +8,9 @@ import { Robot } from "./lib/SmartRobo/Robot.class.js";
     position: {
       x: 4,
       y: "1",
-      z: "ABE",
+      z: "W",
     },
   })
-  robot.move(["R", "R", "F", "L"]);
+  robot.move(["R", "R", "F", "L", "w"]);
   console.log(robot.status)
 })();

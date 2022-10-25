@@ -1,3 +1,7 @@
+### 0.2.0
+- new Utility Class with one method isOneLetterOfRegex(string, regex)
+- minor refactor to Setup Class to use Utility Class methods
+
 ### 0.1.0
 - scaffold as a js module
 - create Setup and Move classes
