@@ -1,3 +1,6 @@
+### 0.3.0
+- Move methods for setting new position on command
+
 ### 0.2.0
 - new Utility Class with one method isOneLetterOfRegex(string, regex)
 - minor refactor to Setup Class to use Utility Class methods
