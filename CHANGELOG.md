@@ -1,3 +1,7 @@
+### 0.4.0
+- Fixes to the Move Class
+- Minor Refactoring
+
 ### 0.3.0
 - Move methods for setting new position on command
 
