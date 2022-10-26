@@ -1,3 +1,7 @@
+### 0.5.0
+- Refactor shared utility methods
+- Refactor Setup Class
+
 ### 0.4.0
 - Fixes to the Move Class
 - Minor Refactoring
