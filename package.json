@@ -1,5 +1,5 @@
 {
-  "name": "devo-smartrobo",
+  "name": "smartrobo",
   "version": "0.4.0",
   "description": "",
   "main": "main.js",
@@ -17,7 +17,7 @@
   "author": "Mutasim Issa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mutasimissa/devo-smartrobo/issues"
+    "url": "https://github.com/mutasimissa/smartrobo/issues"
   },
-  "homepage": "https://github.com/mutasimissa/devo-smartrobo#readme"
+  "homepage": "https://github.com/mutasimissa/smartrobo#readme"
 }
